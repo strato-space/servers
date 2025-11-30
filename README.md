@@ -1118,7 +1118,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Onyx MCP Sandbox](https://github.com/avd1729/Onyx)** – (by Aravind) A secure MCP server that executes code in isolated Docker sandboxes. Supports Python, Java, C, C++, JavaScript, and Rust. Provides the `run_code` tool, enforces CPU/memory limits, includes comprehensive tests, and detailed setup instructions.
 - **[Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)** - Content editing codes, value map, and positioning tools for product marketing.
 - **[Open Targets](https://github.com/QuentinCody/open-targets-mcp-server)** - Unofficial MCP server for the Open Targets Platform, providing access to target-disease associations, drug discovery data, and therapeutic hypothesis generation for biomedical research.
-- **[OpenAI GPT Image](https://github.com/SureScaleAI/openai-gpt-image-mcp)** - OpenAI GPT image generation/editing MCP server.
+- **[media-gen-mcp](https://github.com/strato-space/media-gen-mcp)** - Strict TypeScript MCP server for OpenAI gpt-image-1 with image generate/edit, smart compression, and test-tool.
 - **[OpenAI WebSearch MCP](https://github.com/ConechoAI/openai-websearch-mcp)** - This is a Python-based MCP server that provides OpenAI `web_search` built-in tool.
 - **[OpenAlex.org MCP](https://github.com/drAbreu/alex-mcp)** - Professional MCP server providing ML-powered author disambiguation and comprehensive researcher profiles using the OpenAlex database.
 - **[OpenAPI](https://github.com/snaggle-ai/openapi-mcp-server)** - Interact with [OpenAPI](https://www.openapis.org/) APIs.
