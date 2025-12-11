@@ -1073,6 +1073,7 @@ search, and comprehensive file analysis.
 - **[MCPShell](https://github.com/inercia/mcpshell)** - Tool that allows LLMs to safely execute command-line tools, providing a secure bridge between LLMs and operating system commands.
 - **[Md2doc](https://github.com/Yorick-Ryu/md2doc-mcp)** - Convert Markdown text to DOCX format using an external conversion service
 - **[MeasureSpace MCP](https://github.com/MeasureSpace/measure-space-mcp-server)** - A free [Model Context Protocol (MCP) Server](https://smithery.ai/server/@MeasureSpace/measure-space-mcp-server) that provides global weather, climate, air quality forecast and geocoding services by [measurespace.io](https://measurespace.io).
+- **[Media Gen MCP](https://github.com/strato-space/media-gen-mcp)** — Strict TypeScript MCP server for OpenAI gpt-image-1: generate, edit, and fetch images with smart compression, resource_link and image outputs, and a built-in test tool for MCP clients. Production-focused (full strict, zero any, Vitest + ESLint CI), optional sharp processing. Works with fast-agent, Claude, gpt-* models, and chatgpt.
 - **[MediaWiki](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server)** - A Model Context Protocol (MCP) Server that interacts with any MediaWiki wiki
 - **[MediaWiki MCP adapter](https://github.com/lucamauri/MediaWiki-MCP-adapter)** - A custom Model Context Protocol adapter for MediaWiki and WikiBase APIs
 - **[medRxiv](https://github.com/JackKuo666/medRxiv-MCP-Server)** - Enable AI assistants to search and access medRxiv papers through a simple MCP interface.
@@ -1654,4 +1655,3 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
-
